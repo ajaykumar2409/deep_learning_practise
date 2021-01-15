@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setuptools.setup(
     name="ajaykumar2409", # Replace with your own username
-    version="0.0.1",
+    version="None",
     author="Ajay kumar",
     author_email="ajaylearnml@gmail.com",
     description="A testCases package",
